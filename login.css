@@ -1,9 +1,11 @@
 header{
+background-color: #1e90ff;	
 }
 
 html, body, .content{
 height: 100%;
 font-family:"Raleway" sans-serif;
+background-color: #cecece;
 }
 
 p{
