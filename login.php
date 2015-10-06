@@ -384,14 +384,14 @@ class OneFileLoginApplication
         echo '<h2>Login</h2>';
 
         echo '<form method="post" action="' . $_SERVER['SCRIPT_NAME'] . '" name="loginform">';
-        echo '<label for="login_input_username">Username (or email)</label> ';
-        echo '<input id="login_input_username" type="text" name="user_name" required /> ';
-        echo '<label for="login_input_password">Password</label> ';
-        echo '<input id="login_input_password" type="password" name="user_password" required /> ';
+        // echo '<label for="login_input_username">Username (or email)</label> ';
+        echo '<input id="login_input_username" placeholder="Username or Email" type="text" name="user_name" required /><br>';
+        // echo '<label for="login_input_password">Password</label> ';
+        echo '<input id="login_input_password" placeholder="Password" type="password" name="user_password" required /><br> ';
         echo '<input type="submit"  name="login" value="Log in" />';
         echo '</form>';
 
-        echo '<a href="' . $_SERVER['SCRIPT_NAME'] . '?action=register">Register new account</a>';
+        echo '<br><a href="' . $_SERVER['SCRIPT_NAME'] . '?action=register">Register new account</a><br>';
     }
 
     /**
