@@ -1,0 +1,131 @@
+.header{
+margin: auto;
+text-align: center;
+background-color: #cecece;
+margin: -10px -8px 0px -9px;
+}
+
+.logo{
+margin-left:95px;
+}
+
+.menu{
+width: 14px;
+height: 14px;
+float: left;
+margin-top: 30px;
+border: none;
+background: url(images/menubutton.svg);
+}
+
+.functions{
+float: right;	
+width: 25px;
+height: 25px;
+margin: 25px 5px 0px 5px;
+}
+
+.center {
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+text-align: center;
+}
+
+html, body, .content{
+height: 100%;
+font-family:"Raleway" sans-serif;
+}
+
+p{
+font-family:"Calibri" sans-serif;
+}
+
+footer {
+ clear: both;
+ position: relative;
+ z-index: 10;
+ height: 3em;
+ margin-top: -3em;
+ text-align: center;
+}
+
+/* Code made by Xyzzy, member of the Euphoria.io community */
+/* Base look */
+#fancy > div {
+  width: 16em;
+  overflow: hidden;
+  height: 0;
+}
+#fancy > div > h2 {
+  font-size: 1em;
+}
+#fancy > div > * {
+  margin: 0.5em;
+}
+#fancy > a {
+  display: inline-block;
+  color: #000000;
+  text-decoration: none;
+  width: 6.5em;
+  text-align: center;
+}
+/* Active text hack */
+#fancy > div:target {
+  height: 6em;
+}
+/* Individual styles */
+#offers {
+  background: #c0ffc0;
+}
+#requests {
+  background: #ffc0c0;
+}
+#offers-button {
+  position: relative;
+  background: #00c000;
+  padding: 0.5em 1em 0.5em 0.5em;
+}
+#requests-button {
+  position: relative;
+  background: #ff0000;
+  padding: 0.5em 0.5em 0.5em 1em;
+}
+/* Fancy hover color change */
+#offers-button:hover {
+  background: #60e060;
+}
+#requests-button:hover {
+  background: #ff6060;
+}
+/* Highlight the currently active button */
+#offers:target ~ #offers-button,
+#requests:target ~ #requests-button {
+  /*font-weight: bold;*/
+  z-index: 10;
+}
+#offers:target ~ #requests-button,
+#requests:target ~ #offers-button {
+  z-index: 0;
+}
+#offers:target ~ #offers-button {
+  border-bottom-right-radius: 1em;
+  padding-right: 2em;
+}
+#offers:target ~ #requests-button {
+  margin-left: -1em;
+}
+#requests:target ~ #offers-button {
+  margin-right: -1em;
+}
+#requests:target ~ #requests-button {
+  border-bottom-left-radius: 1em;
+  padding-left: 2em;
+}
+/* Transition hacks */
+#fancy > div {
+  transition: height 0.5s;
+}
+#fancy > a {
+  transition: background-color 0.5s;
+}
