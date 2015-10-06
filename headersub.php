@@ -16,7 +16,6 @@
 <header>
 <div class="header">
 	<img src="images/logo.png" alt="Project Epsilon Logo" id="logo" width="75" height="75"></img>
-	<a href="login.php" id="login">Log In</a>
 </div>
 <div id="navbar">
 	<div id="navSpacer"><br></div>
