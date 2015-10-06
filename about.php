@@ -32,10 +32,17 @@
 </div>
 </header>
 <content>
+<div class="context">
 <div class="text">
 <br>
 <p>Test page 1</p>
 </div>
+</div>
 </content>
+<footer>
+	<br><br>
+	<hr>
+	Content Copyright 2015
+</footer>
 </body>
 </html>

@@ -36,6 +36,7 @@
 	<br>
 </div>
 </header>
+<content>
 <div class="content">
 <img id="frontpage" src="images/frontpage.jpeg"></img>
 <div class="text">
@@ -95,5 +96,11 @@ Morbi porttitor ullamcorper massa, at dapibus eros lacinia id. Integer faucibus 
 Proin semper ligula at urna rhoncus hendrerit. Sed fringilla massa sagittis lorem elementum bibendum. Nunc mi leo, ultrices eget dui in, placerat pretium ligula. Maecenas pulvinar enim id metus aliquam, id mollis erat bibendum. Fusce sodales urna ut placerat volutpat. Fusce eu justo at lorem interdum interdum. Nam vulputate lacus in consequat tincidunt. Vivamus facilisis purus non lacus elementum, non lacinia felis pharetra.</p>
 </div>
 </div>
+</content>
+<footer>
+	<br><br>
+	<hr>
+	Content Copyright 2015
+</footer>
 </body>
 </html>

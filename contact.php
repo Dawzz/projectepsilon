@@ -32,10 +32,17 @@
 </div>
 </header>
 <content>
+<div class="content">
 <div class="text">
 <br>
 <p>Contact us at this number: (555)-555-5555</p>
 </div>
+</div>
 </content>
+<footer>
+	<br><br>
+	<hr>
+	Content Copyright 2015
+</footer>
 </body>
 </html>
