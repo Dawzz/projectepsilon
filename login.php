@@ -3,6 +3,7 @@
 <head>
 	<title>Project Epsilon</title>
   <link rel="stylesheet" href="login.css">
+  <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
