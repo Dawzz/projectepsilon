@@ -16,22 +16,22 @@
 <header>
 <div class="header">
 	<img src="images/logo.png" alt="Project Epsilon Logo" id="logo" width="75" height="75"></img>
-	<a href="login.html" id="login">Log In</a>
+	<a href="login.php" id="login">Log In</a>
 </div>
 <div id="navbar">
 	<div id="navSpacer"><br></div>
         <div id="navWrap">
             	<div id="nav">
-			<div class="center">
+					<div class="center">
 		                <ul id="navbarul" style="height: 51px;">
 		                    	<li class="navbaritem"><a href="index.php" class="smoothScroll">Home</a></li>
 		                    	<li class="navbaritem"><a href="news.php" class="smoothScroll">News</a></li>
-		                	<li class="navbaritem"><a href="about.php" class="smoothScroll">About</a></li>
-					<li class="navbaritem"><a href="contact.php" class="smoothScroll">Contact Us</a></li>
+								<li class="navbaritem"><a href="about.php" class="smoothScroll">About</a></li>
+								<li class="navbaritem"><a href="contact.php" class="smoothScroll">Contact Us</a></li>
 		                </ul>    
 	                	<br class="clearLeft" />
             		</div>
-        	</div>
+				</div>
     	</div>
 	<br>
 </div>
