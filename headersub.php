@@ -6,7 +6,7 @@
  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
  <meta name="description" content="A new way to carpool.">
 	<title>Project Epsilon</title>
-  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="subpage.css">
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
