@@ -4,7 +4,10 @@
 <content>
 <div class="text">
 <br>
-<p>Contact us at this number: (555)-555-5555</p>
+<p>
+Want to contact us? 
+You can email us at projectepsilon12@outlook.com or use the following form to send us a message.
+</p>
 </div>
 </content>
 </body>
