@@ -19,10 +19,10 @@
 				<div class="right">
 					<img src="images/logo.png" alt="Project Epsilon Logo" id="logo" width="75" height="75"></img>
 					<ul class="navbar">
-						<li class="navbaritem"><a href="index.html" class="smoothScroll">Home</a></li>
-						<li class="navbaritem"><a href="news.html" class="smoothScroll">News</a></li>
-						<li class="navbaritem"><a href="about.html" class="smoothScroll">About</a></li>
-						<li class="navbaritem"><a href="contact.html" class="smoothScroll">Contact Us</a></li>
+						<li class="navbaritem"><a href="index.php" class="smoothScroll">Home</a></li>
+						<li class="navbaritem"><a href="news.php" class="smoothScroll">News</a></li>
+						<li class="navbaritem"><a href="about.php" class="smoothScroll">About</a></li>
+						<li class="navbaritem"><a href="contact.php" class="smoothScroll">Contact Us</a></li>
 					</ul>    
 					<br class="clearLeft" />
 				</div>
