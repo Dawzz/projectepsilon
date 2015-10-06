@@ -1,5 +1,5 @@
 <?php
-	include_once'header.php';
+	include_once'headersub.php';
 ?>
 <content>
 <div class="text">

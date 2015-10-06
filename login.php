@@ -1,6 +1,11 @@
-<?php
-	include_once 'header.php';
-?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--Designed by Neon 2015--> 
+<head>
+	<title>Project Epsilon</title>
+  <link rel="stylesheet" href="login.css">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
 <content>
 <?php
 
