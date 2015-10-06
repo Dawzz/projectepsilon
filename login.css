@@ -1,0 +1,20 @@
+header{
+}
+
+html, body, .content{
+height: 100%;
+font-family:"Raleway" sans-serif;
+}
+
+p{
+font-family:"Calibri" sans-serif;
+}
+
+footer {
+clear: both;
+position: relative;
+z-index: 10;
+height: 3em;
+margin-top: -3em;
+text-align: center;
+}
