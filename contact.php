@@ -18,8 +18,9 @@
 	<input type="text" name="message">
 	<br>
 	<br>
-	<input type="submit" value="Submit"
+	<input type="submit" value="Submit" id="formsubmit">
 </form>	
+<script type="javascript" src="updatejs.js"></script>
 </div>
 </div>
 </content>
